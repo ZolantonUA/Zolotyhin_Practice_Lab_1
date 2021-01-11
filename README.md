@@ -1,1 +1,1 @@
-# Zolotyhin_Practice_Lab_1
+# WebLab3JS
